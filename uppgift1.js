@@ -1,3 +1,7 @@
 /* Lösning till uppgift 1 av Molly Karlsson 2026*/
 "use strict";
-console.log("Hello World!");
+let firstName = "Molly";
+let lastName = "Karlsson";
+let fullName = firstName + " " + lastName;
+
+console.log(fullName);
