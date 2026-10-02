@@ -4,7 +4,10 @@
 let firstName = "Molly";
 let lastName = "Karlsson";
 let fullName = firstName + " " + lastName;
-console.log(fullName);
+console.log(fullName); //Namn
 
 let age = "19";
-console.log("Ålder:" + " " + age);
+console.log("Ålder:" + " " + age); //Ålder
+
+let isStudent = true;
+console.log("Student:" + " " + isStudent); //Student
