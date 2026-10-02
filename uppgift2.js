@@ -7,4 +7,7 @@ console.log("Pris: " + price + " kr"); //Pris
 let amount = 5;
 console.log("Antal: " + amount); //Antal
 
-let moms = 0.25;
+let total = price * amount;
+console.log("Totalt: " + total + " kr"); //Totalt
+
+let moms = 0.25; //Moms
