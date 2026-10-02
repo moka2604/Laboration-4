@@ -7,4 +7,6 @@ if (age < 18) {
   console.log("Barn"); //Barn
 } else if (age >= 18 && age < 64){
   console.log("Vuxen"); //Vuxen
+} else {
+  console.log("Pensionär"); //Pensionär
 }
