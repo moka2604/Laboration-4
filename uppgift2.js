@@ -11,3 +11,6 @@ let total = price * amount;
 console.log("Totalt: " + total + " kr"); //Totalt
 
 let moms = 0.25; //Moms
+
+let totalWithMoms = total * (1 + moms);
+console.log("Totalt med moms: " + totalWithMoms + " kr"); //Totalt med moms
